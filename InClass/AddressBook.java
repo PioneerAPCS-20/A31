@@ -35,6 +35,14 @@ public class AddressBook
         // {B, F, K, M, P, T}
 
         // Use compareTo to compare Strings alphabetically
+        
+        
+        // loop i=0 i<book.size()
+           // use compareTo
+           // add if it comes before Contact at i
+           // return
+        
+        // if nothing was added, add it to the end.
     }
     
     /**
